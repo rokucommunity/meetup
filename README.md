@@ -31,7 +31,7 @@ We like to get together to :
  
   - TBD
  
- ## Past meetup
+ ## Past meetups
  
  ### May 2020 - Vscode extension overview
   - Bronley Plumb and Chris Dwyer Perkins go deep and wide on the vscode ide
